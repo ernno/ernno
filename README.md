@@ -1,1 +1,1 @@
-Cursando Engenharia de Computação na UFPel.
+Cursando Ciência da Computação na UFFS.
