@@ -1,1 +1,3 @@
-Cursando Ciência da Computação na UFFS.
+19y
+PT/EN
+Anime, gaming and coding.
