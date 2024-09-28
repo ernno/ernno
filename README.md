@@ -2,4 +2,4 @@
 
 PT/EN
 
-Anime, gaming and coding.
+Doing somethimg, probably.
