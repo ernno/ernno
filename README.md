@@ -2,4 +2,4 @@
 
 PT/EN
 
-Doing somethimg, probably.
+Doing something, probably.
