@@ -1,5 +1,3 @@
-19y
+print("19y")
 
-PT/EN
-
-Doing something, probably.
+print("PT/EN")
